@@ -22,6 +22,8 @@ Dobrą praktyką będzie również utworzenie [changelogu](https://keepachangelo
 
 **Uwaga!** Link do repozytorium powinien pojawić się w tym miejscu: ...
 
+https://github.com/martynakiljan/manufactoring_website
+
 &nbsp;
 
 > :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
