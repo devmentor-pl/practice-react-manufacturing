@@ -14,8 +14,8 @@ Jeśli planujesz wykorzystać w swojej aplikacji [Netlify Functions](https://www
 
 **Uwaga!** Link do działającej wersji powinien pojawić się w tym miejscu: ...
 
+https://relaxed-booth-7e6ee5.netlify.app/
 
 &nbsp;
 
 > :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
-

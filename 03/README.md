@@ -12,9 +12,12 @@ W celu uprawnienia konfiguracji zalecam Ci skorzystać z [gotowego rozwiązania]
 
 &nbsp;
 
-**Uwaga!** Link do publicznej (produkcyjnej) wersji powinien pojawić się w tym miejscu: ...
+**Uwaga!** Link do publicznej (produkcyjnej) wersji powinien pojawić się w tym miejscu: .
+
+https://martynakiljan.github.io/manufactoring_website/
+
+
 
 &nbsp;
 
 > :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
-
