@@ -5,14 +5,16 @@ import Footer from './Footer/Footer';
 import Diet from './Diet/Diet';
 import Shooping from './Shooping/Shooping';
 
+import StyledApp from './App.styled';
+
 const App = () => {
   return (
-    <article>
+    <StyledApp>
       <Header/>
       <Diet/>
       <Shooping/>
       <Footer/>
-    </article>
+    </StyledApp>
   );
 }
 
