@@ -1,5 +1,11 @@
 > :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
+Próbowałąm wykonać zgodnie zgodnie do projektu: 
+https://github.com/kowackag/Tabular-data-template.git 
+
+Jednak cały czas wyskakuje mi bład:
+Error: Process completed with exit code 1.
+
 &nbsp;
 
 # `#03` React: Wytwarzanie
