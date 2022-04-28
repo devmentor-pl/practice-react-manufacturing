@@ -1,5 +1,11 @@
 > :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
+
+https://profound-marshmallow-9c0c5e.netlify.app/
+
+
+
+
 &nbsp;
 
 # `#04` React: Wytwarzanie
