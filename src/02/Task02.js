@@ -5,6 +5,7 @@ const Task02 = () => {
     <div>
         <h2>Task 02</h2>
         
+        <div>zad 2</div>
     </div>
   )
 }
