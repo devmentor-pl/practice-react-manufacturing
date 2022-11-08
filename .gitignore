@@ -4,4 +4,11 @@
 # production
 /build
 
+# production
+.eslintcache
+.env
+
+
+
+
 
