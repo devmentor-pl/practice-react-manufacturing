@@ -1,14 +1,12 @@
 # Changelog
 
 ## 1.0.0 - 2022-11-08
----
 
 ### Added
 
 zad 1
 
 ## 1.0.1- 2022-11-08
----
 
 ### Added
 
@@ -20,3 +18,19 @@ created Changelog
 ### Fixed
 
 ### Changed
+
+## 1.0.2- 2022-11-08
+
+### Added
+
+zad 3
+gh-pages - Publish files to gh-pages branch on GitHub
+
+
+
+
+
+
+
+
+
