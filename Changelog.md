@@ -26,7 +26,13 @@ created Changelog
 zad 3
 gh-pages - Publish files to gh-pages branch on GitHub
 
+## 1.0.3- 2022-11-09
 
+### Added
+
+zad 4
+hosting project by Netlify
+....
 
 
 
