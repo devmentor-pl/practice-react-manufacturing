@@ -8,8 +8,9 @@ const Task04 = () => {
         <div>
         </div>
             <a 
-                href="xxx"
+                href="https://golden-alpaca-49beb5.netlify.app/"
                 target="_blank" 
+                rel="noreferrer" 
             >site in Netlify
             </a>
     </div>
