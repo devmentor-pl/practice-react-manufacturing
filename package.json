@@ -1,7 +1,7 @@
 {
   "name": "practice-react-manufacturing",
-  "homepage": "https://andrzej-stasinski.github.com/practice-react-manufacturing",
-  "version": "1.0.2",
+  "homepage": ".",
+  "version": "1.0.3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
