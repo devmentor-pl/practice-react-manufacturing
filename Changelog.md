@@ -32,7 +32,14 @@ gh-pages - Publish files to gh-pages branch on GitHub
 
 zad 4
 hosting project by Netlify
-....
+Netlify Functions hiding token
+
+## 1.0.4- 2022-11-09
+
+### Added
+
+zad 5
+starting project in figma
 
 
 

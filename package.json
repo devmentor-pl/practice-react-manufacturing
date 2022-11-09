@@ -1,7 +1,7 @@
 {
   "name": "practice-react-manufacturing",
   "homepage": ".",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
