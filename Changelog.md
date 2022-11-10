@@ -6,7 +6,7 @@
 
 zad 1
 
-## 1.0.1- 2022-11-08
+## 1.0.1 - 2022-11-08
 
 ### Added
 
@@ -19,22 +19,28 @@ created Changelog
 
 ### Changed
 
-## 1.0.2- 2022-11-08
+## 1.0.2 - 2022-11-08
 
 ### Added
 
 zad 3
 gh-pages - Publish files to gh-pages branch on GitHub
+&nbsp;
 
-## 1.0.3- 2022-11-09
+[gh-pages site](https://andrzej-stasinski.github.io/practice-react-manufacturing/)
+
+## 1.0.3 - 2022-11-09
 
 ### Added
 
 zad 4
 hosting project by Netlify
 Netlify Functions hiding token
+&nbsp;
 
-## 1.0.4- 2022-11-09
+[Netlify site](https://golden-alpaca-49beb5.netlify.app/)
+
+## 1.0.4 - 2022-11-09
 
 ### Added
 
