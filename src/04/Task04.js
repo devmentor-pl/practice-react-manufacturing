@@ -1,4 +1,5 @@
 import React from 'react'
+import PrivateRepos from '../PrivateRepos'
 
 const Task04 = () => {
   return (
@@ -7,6 +8,7 @@ const Task04 = () => {
       <p>
         <a href="https://practice-react-manufacturing-camiceli.netlify.app/">Website</a> hosted on Netlify
       </p>
+      <PrivateRepos />
     </section>
   )
 }
