@@ -8,7 +8,6 @@ const Task04 = () => {
       <p>
         <a href="https://practice-react-manufacturing-camiceli.netlify.app/">Website</a> hosted on Netlify
       </p>
-      <p>My repositories:</p>
       <PrivateRepos />
     </section>
   )
