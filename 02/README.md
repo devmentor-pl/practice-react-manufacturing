@@ -19,6 +19,9 @@ Pamiętaj, aby podnieść wersję swojej aplikacji zgodnie z [wersjonowaniem sem
 Dobrą praktyką będzie również utworzenie [changelogu](https://keepachangelog.com/en/1.0.0/).
 
 
+Link do końcowego projektu, który został stworzony zgodnie z wersjonowaniem oraz posiada changelog: [Exercises planner](https://github.com/MateuszSuplewski/Exercises-Planner)
+
+
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../01) | [*następne zadanie*](./../03) :arrow_right:
