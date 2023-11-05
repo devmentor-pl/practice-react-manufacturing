@@ -11,7 +11,7 @@ export const App = () => {
           TRELLO BOARD
         </a>
         <h1>Task 2.2</h1>
-        <h1>Task 3.18</h1>
+        <h1>Task 3.19</h1>
       </div>
     </div>
   );
