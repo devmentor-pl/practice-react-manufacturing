@@ -7,10 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.0] - 2023-11-05
 
+### Added
+
 - Divided at master and develop branches
 - Created CHANGELOG.md
-
-### Added
 
 ## [0.1.0] - 2023-11-05
 
