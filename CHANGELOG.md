@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - ghPages and Actions added
+- key added
 
 ## [0.2.0] - 2023-11-05
 
