@@ -14,3 +14,8 @@ W celu uprawnienia konfiguracji polecam Ci skorzystać z [gotowego rozwiązania]
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
+
+GH pages został wdrożony dla 
+https://github.com/kozerka/task-react-styling
+strona live: 
+https://kozerka.github.io/task-react-styling/

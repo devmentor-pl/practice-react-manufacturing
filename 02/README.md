@@ -22,3 +22,11 @@ Dobrą praktyką będzie również utworzenie [changelogu](https://keepachangelo
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../01) | [*następne zadanie*](./../03) :arrow_right:
+
+
+Dodaję link do mojej tablicy Trello https://trello.com/b/s7wpnEH3/meet2learn-app na której prowadzony był mój projekt koncowy
+
+linki do BE i FE gdzie prowadzone było zarówno wersjonowanie jak i changelog - oraz praca na branchach - pwszystkie branche feature zostaly zamkniete po zmergowaniu - zostawiono branch develop gdyż planuje aplikację rozwija oraz branch deploy by oddzielic kod z możliwością uruchamiania w srodowisku lokalnym - dodatkowo branch experimental dla testów - z uwagi ze nie zostanie dołaczona do main póki nie zostanie ukończona
+
+https://github.com/kozerka/meet2learn-FE
+https://github.com/kozerka/meet2learn-BE

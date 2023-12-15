@@ -19,3 +19,5 @@ W zdaniu 5 (dodatkowym) przedstawię Ci możliwość wykonania projektu graficzn
 
 
 > :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
+
+Dodaję link do mojej tablicy Trello https://trello.com/b/s7wpnEH3/meet2learn-app na której prowadzony był mój projekt koncowy
