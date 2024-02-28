@@ -5,7 +5,7 @@ const Task04 = () => {
     <div>
       <h2>Task04</h2>
       <a
-        href="https://maciejnecka.github.io/practice-react-manufacturing/"
+        href="https://maciejnecka-react-manufacturing.netlify.app/"
         target="blank"
       >
         Netlify
