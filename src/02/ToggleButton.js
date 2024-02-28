@@ -12,7 +12,7 @@ const ToggleButton = () => {
   return (
     <div>
       <p>{text}</p>
-      <button onClick={handleChangeText}>Zmień tekst</button>
+      <button onClick={handleChangeText}>Zmień tekst v2</button>
     </div>
   );
 };
