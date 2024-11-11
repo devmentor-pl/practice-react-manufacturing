@@ -18,6 +18,19 @@ export const App = () => {
           Redus94 / practice-react-manufacturing--task02
         </a>
       </div>
+      <div>
+        <h1>Task 3</h1>
+        <a
+          href="https://github.com/Redus94/practice-react-manufacturing--task02"
+          target="blank"
+        >
+          Redus94 / practice-react-manufacturing--task02
+        </a>
+
+        <a href="https://redus94.github.io/practice-react-manufacturing--task02/index.html">
+          GitHub-Pages
+        </a>
+      </div>
     </div>
   );
 };
