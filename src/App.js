@@ -37,6 +37,10 @@ export const App = () => {
           https://harmonious-scone-1ac777.netlify.app/
         </a>
       </div>
+      <div>
+        <h1>Task 5</h1>
+        <p>SKIP</p>
+      </div>
     </div>
   );
 };
