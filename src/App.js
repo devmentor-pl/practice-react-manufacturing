@@ -9,6 +9,15 @@ export const App = () => {
           TRELLO BOARD
         </a>
       </div>
+      <div>
+        <h1>Task 2</h1>
+        <a
+          href="https://github.com/Redus94/practice-react-manufacturing--task02"
+          target="blank"
+        >
+          Redus94 / practice-react-manufacturing--task02
+        </a>
+      </div>
     </div>
   );
 };
