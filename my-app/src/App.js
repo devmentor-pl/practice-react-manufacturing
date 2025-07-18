@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
-import CommentForm from "./components/CommentFom";
+import CommentForm from "./components/CommentForm";
+import CommentList from "./components/CommentList";
 
 function App() {
   const [comments, setComments] = useState([]);
@@ -9,17 +10,14 @@ function App() {
     setComments((prev) => [...prev, newComment]);
   };
 
+  const handleDeleteComment = (id) => {
+    setComments((prev) => prev.filter((comment) => comment.id !== id));
+  };
   return (
     <div>
       <h1>Komentarze</h1>
       <CommentForm onAddComment={handleAddComment} />
-      <ul>
-        {comments.map((c) => (
-          <li key={c.id}>
-            <strong>{c.author}:</strong> {c.content}
-          </li>
-        ))}
-      </ul>
+      <CommentList comments={comments} onDeleteComment={handleDeleteComment} />
     </div>
   );
 }
