@@ -10,7 +10,7 @@ Dodatkowym atutem zrealizowania tego zdania będzie poznanie narzędzia, za któ
 
 Mam tu na myśli [Figmę](https://www.figma.com/), która umożliwia tworzenie projektów graficznych i prototypów aplikacji.
 
-Postaraj się wykonać kilka widoków swojej aplikacji, aby móc zobrazować sobie i potencjalnym pracodawcom, co chcesz zrealizować (pamiętaj, że Twój projekt może być stale rozwijany).
+Postaraj się wykonać kilka widoków swojej aplikacji, aby móc zobrazować sobie i potencjalnym pracodawcom, co chcesz zrealizować (pamiętaj, że Twój projekt może być stale rozwijany). W pliku `figma.txt` zapisz link z podglądem.
 
 Masz opcję skorzystania z darmowych i płatnych motywów:
 - https://www.figma.com/templates/
