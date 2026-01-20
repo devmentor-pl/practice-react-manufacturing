@@ -9,7 +9,7 @@ Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która p
 
 Tablica ta ma być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/) i zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu.
 
-Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że wybierzesz `Pokaż menu > Więcej > Skopiuj tablicę`.
+Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że wybierzesz `Pokaż menu > Więcej > Skopiuj tablicę`. Link do utworzonej tablicy zapisz w pliku `kanban.txt` (stwórz go).
 
 Dobrą praktyką będzie również określenie priorytetów dla konkretnych tasków zgodnie z [techniką MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
 
