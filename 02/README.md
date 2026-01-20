@@ -7,6 +7,7 @@
 Kolejnym krokiem jest przygotowanie środowiska oraz repozytorium, na którym będziesz pracować.
 
 Stwórz repozytorium i przygotuj odpowiednie gałęzie, czyli `main` (`master` dla starych repozytoriów) oraz `develop`.
+Link do utworzonego repo zapisz w pliku `repo.txt` (najpierw go utwórz).
 
 Wykonaj kilka mniejszych zadań z Trello, które powinny być realizowane na osobnych gałęziach.
 
