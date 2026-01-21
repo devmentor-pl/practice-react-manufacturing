@@ -15,6 +15,8 @@ Dobrą praktyką będzie również określenie priorytetów dla konkretnych task
 
 W zdaniu 5 (dodatkowym) przedstawię Ci możliwość wykonania projektu graficznego aplikacji, lecz teraz podczas planowania i wykonywania pierwszych zadań nie skupiaj się na wyglądzie – najpierw spraw, by Twój pomysł zadziałał.
 
+Link do tablicy Trello: (https://trello.com/invite/b/673cc3ed9c4de8bf2cca024c/ATTIfb5167ed9540ebb0751adc295554787eBB53DBFF/practice-manufacturing)
+
 &nbsp;
 
 

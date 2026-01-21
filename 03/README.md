@@ -1,9 +1,8 @@
-> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+> :star: _Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/)._
 
 &nbsp;
 
 # `#03` React: Wytwarzanie
-
 
 Najwyższy czas przygotować automatyczny deploy dla Twojej aplikacji.
 
@@ -11,6 +10,8 @@ Na tę chwilę postaraj się przygotować go za pomocą [GitHub Actions](https:/
 
 W celu uprawnienia konfiguracji polecam Ci skorzystać z [gotowego rozwiązania](https://github.com/marketplace/actions/deploy-to-github-pages).
 
+Link do deploy(project Taks-React-Styling) - https://diana12337.github.io/task-react-styling/
+
 &nbsp;
 
-> :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:
+> :arrow*left: [\_poprzednie zadanie*](./../02) | [_następne zadanie_](./../04) :arrow_right:
