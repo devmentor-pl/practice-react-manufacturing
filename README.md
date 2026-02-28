@@ -1,39 +1,70 @@
-> :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
+# Getting Started with Create React App
 
-&nbsp;
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React: Wytwarzanie
+## Available Scripts
 
-Proces tworzenia aplikacji to coś więcej niż implementacja. Potrzebujemy sprawnego planowania i organizowania pracy, aby móc zrealizować określony cel.
+In the project directory, you can run:
 
-Tym razem czekające Cię zadania mają ułatwić Ci proces planowania i organizacji pracy nad własnym projektem.
+### `npm start`
 
-&nbsp;
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Zadania
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-> :fire: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu. O wynikach losowania będę informował w piątkowym newsletterze, dlatego już teraz zachęcam Cię do [zapisania się na niego](http://devmentor.pl/newsletter). Życzę Ci efektywnej nauki programowania! Pozdrawiam, [Mateusz Bogolubow](https://www.linkedin.com/in/mateusz-bogolubow/).*
+### `npm test`
 
-&nbsp;
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### :point_right: &nbsp; [`#01`](./01) &nbsp; [`#02`](./02) &nbsp; [`#03`](./03) &nbsp; [`#04`](./04) &nbsp; [`#05`](./05) &nbsp; :point_left:
+### `npm run build`
 
-&nbsp;
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-:arrow_left: [*poprzedni zestaw zadań **(React: Testowanie**)*](https://github.com/devmentor-pl/practice-react-testing)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-&nbsp;
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Jak prawidłowo wykonać zadania?
+### `npm run eject`
 
-Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Teraz będziesz mógł wykonywać zadania na swoim repozytorium. Wystarczy, że skopiujesz pliki na swój komputer przy pomocy komendy [`git clone`](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Zadania rozwiązuj jedno po drugim, ponieważ z każdym kolejnym ich poziom trudności wzrasta.  
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](https://github.com/git-guides/git-add) oraz [`git commit`](https://github.com/git-guides/git-commit).
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Aby wysłać dane na zdalny serwer, wystarczy komenda [`git push`](https://github.com/git-guides/git-push).
+## Learn More
 
-Po wysłaniu plików na GitHuba zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), abym mógł wykonać [Code Review](https://en.wikipedia.org/wiki/Code_review) Twoich zadań.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
