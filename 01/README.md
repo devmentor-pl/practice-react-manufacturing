@@ -5,7 +5,7 @@
 # `#01` React: Wytwarzanie
 
 
-Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która pomoże Ci w planowaniu i zarządzaniu pracą nad projektem.
+Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która pomoże Ci w planowaniu i zarządzaniu pracą nad projektem..
 
 Tablica ta ma być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/) i zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu.
 
