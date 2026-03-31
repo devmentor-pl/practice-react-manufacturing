@@ -11,6 +11,11 @@ Proponuję, abyś wykorzystał do tego [Netlify](https://www.netlify.com/). Kont
 
 Jeśli planujesz wykorzystać w swojej aplikacji [Netlify Functions](https://www.netlify.com/products/functions/) (choćby po to, by ukryć klucze dla API), to skonfiguruj przynajmniej jeden endpoint – abyś był pewny, że potrafisz to wykonać.
 
+
+Link do końcowego projektu z netlify : [Exercises Planner](https://exercises-planner.netlify.app/)
+
+
+
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:

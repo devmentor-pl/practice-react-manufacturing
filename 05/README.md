@@ -28,4 +28,10 @@ W sieci znajdziesz również mnóstwo darmowych materiałów edukacyjnych:
 
 &nbsp;
 
+## UI Jednego z wcześniejszych projektów wykonane w Figmie
+
+![](./assets/Filter.png)
+![](./assets/QuickOrder.png)
+![](./assets/WelcomePage.png)
+
 > :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:

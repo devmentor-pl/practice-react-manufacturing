@@ -11,6 +11,9 @@ Na tę chwilę postaraj się przygotować go za pomocą [GitHub Actions](https:/
 
 W celu uprawnienia konfiguracji polecam Ci skorzystać z [gotowego rozwiązania](https://github.com/marketplace/actions/deploy-to-github-pages).
 
+
+- Projekt z gotowym deployem: [Blog with prismic](https://github.com/MateuszSuplewski/Blog-With-Prismic)
+
 &nbsp;
 
 > :arrow_left: [*poprzednie zadanie*](./../02) | [*następne zadanie*](./../04) :arrow_right:

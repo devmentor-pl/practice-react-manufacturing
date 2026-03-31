@@ -18,4 +18,7 @@ W zdaniu 5 (dodatkowym) przedstawię Ci możliwość wykonania projektu graficzn
 &nbsp;
 
 
+
+Link do tablicy przedstawiającej finalny projekt: [Trello](https://trello.com/b/usjdS3i1/exercises-planner)
+
 > :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
